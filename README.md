@@ -1,3 +1,8 @@
+My first app, maked with Ember.
+
+
+
+
 # super-rentals
 
 This README outlines the details of collaborating on this Ember application.
